@@ -1,0 +1,12 @@
+{
+	"name": "testing",
+	"description": "bonsoird@wearehackeone.com",
+	"buildpacks": [{
+		"url": "https://github.com/h1-bonsoird/public.git"
+	}], 
+	"env": {
+		"BONSOIR":{
+			"value": ""
+		}
+	}
+}
